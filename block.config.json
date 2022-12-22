@@ -1,0 +1,8 @@
+{
+  "name": "sample_shield_note",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/Digambaran/sample_shield_note",
+    "ssh": "git@github.com:Digambaran/sample_shield_note.git"
+  }
+}
